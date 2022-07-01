@@ -1,3 +1,76 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "AABSOO"
+# Main Menu
+
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 1
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 2
+[[menu.main]]
+name = "Work"
+url = "#work"
+weight = 3
+[[menu.main]]
+name = "Learn"
+url = "#learn"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 5
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Blog"
+url = "#"
+weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "AABSOO 2022 © All rights reserved "
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Tehran, Iran"
+email = "contact@aabsoo.com"
+phone = "+(98) 921 2700 487"
+
+
+
+# Social icons
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/aabsoo.farm"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/aabsoo"
+weight = 2
+[[params.social]]
+icon = "fa-youtube-square"
+url = "https://www.youtube.com/watch?v=Bmq18RJ_K_c"
+weight = 3
+

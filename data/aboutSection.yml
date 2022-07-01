@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: 
+title: >
+
+content: >
+  ### vertical farming features:
+
+  -- Climate controlled agriculture with Hydroponics process.
+
+  -- Significant less water usage compared to agriculture on Land.
+
+  -- Scalability of Urban Farming in Greenhouses and circular economies.
+  
+  -- Continuous development for efficiency of resources and monitoring.
+
+button1Name: Learn more
+button2Name: Download Catalogue
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

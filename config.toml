@@ -67,7 +67,7 @@ url = "https://www.instagram.com/aabsoo.farm"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/in/aabsoo"
+url = "https://www.linkedin.com/company/aabsoo/"
 weight = 2
 [[params.social]]
 icon = "fa-youtube-square"
